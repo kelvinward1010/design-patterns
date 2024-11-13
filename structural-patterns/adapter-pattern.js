@@ -33,3 +33,4 @@ const oldCircle = {
 
 const adapter = new ShapeAdapter(oldCircle);
 adapter.draw(); // Output: Drawing an old circle
+
